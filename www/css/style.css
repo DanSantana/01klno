@@ -1,0 +1,30 @@
+@charset "UTF-8";
+label{
+  font-size: 14px;
+  font-weight: 700;
+  color: #357EC7;
+}
+label:hover{
+  font-size: 13px;
+  font-weight: 500;
+  color: #488AC7;
+}
+.jumbotron{
+  background-color: #357EC7!important;
+}
+.btn-primary{
+  background-color: #357EC7!important;
+  border-color: #488AC;
+}
+footer{
+  background-color:#141719;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 100%;
+}
+footer h2{
+  font-size: 24px;
+  font-weight: 700;
+  color: #357EC7;
+}
